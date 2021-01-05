@@ -8,3 +8,8 @@ Homework 1:
 [statement](https://github.com/jelic98/raf_du/blob/main/homework_1/homework_1.pdf),
 [implementation](https://github.com/jelic98/raf_du/tree/main/homework_1/main.ipynb),
 [report](https://github.com/jelic98/raf_du/blob/main/homework_1/report.pdf)
+
+Homework 2:
+[statement](https://github.com/jelic98/raf_du/blob/main/homework_2/homework_2.pdf),
+[implementation](https://github.com/jelic98/raf_du/tree/main/homework_2/main.ipynb),
+[report](https://github.com/jelic98/raf_du/blob/main/homework_2/report.pdf)
